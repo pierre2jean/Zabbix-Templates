@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>2.0</version>
-    <date>2015-12-22T12:12:30Z</date>
     <groups>
         <group>
             <name>Wireless</name>
